@@ -12,9 +12,9 @@ The features used to achieve this categories was
 - bouncerate
   
 kpi  from the website behavior analysis;
-Total Website Visits: 25277
-Average Time on Site: 10.36 minutes
-Average Bounce Rate: 49.49%
+- Total Website Visits: 25277
+- Average Time on Site: 10.36 minutes
+- Average Bounce Rate: 49.49%
 
 Various visualization was performed for further analysis and interactive visualization using DASH from plotly was also crerated.
   
